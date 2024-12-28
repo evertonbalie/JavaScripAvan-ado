@@ -1,0 +1,32 @@
+{
+  "name": "node",
+  "version": "1.0.0",
+  "description": "Curso Avançado de javaScript",
+  "main": "hello.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "test2": "cls && echo 'hello Script'",
+    "dev":"nodemon fundamentos/hello.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evertonbalie/JavaScripAvan-ado.git"
+  },
+  "keywords": [
+    "node",
+    "nodeja",
+    "javaScript"
+  ],
+  "author": "Everton Rodrigues",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/evertonbalie/JavaScripAvan-ado/issues"
+  },
+  "homepage": "https://github.com/evertonbalie/JavaScripAvan-ado.git1",
+  "dependencies": {
+    "colors": "^1.4.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.9"
+  }
+}
